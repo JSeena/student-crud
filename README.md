@@ -50,3 +50,15 @@ Banco de Dados Simulado: Utilização do json-server para simular uma API RESTfu
 # Vídeo demonstrativo do projeto:
 O vídeo se encontra no link a seguir -> https://youtu.be/4jkyadG5sW4 <-
 
+## Prints do projeto
+- Desktop
+![Sobre G](https://github.com/JSeena/student-crud/assets/94326150/7c5845f7-29f5-429a-9df8-ccf2bddfb345)
+![Pesquisa G](https://github.com/JSeena/student-crud/assets/94326150/4ec6eea6-2905-47c9-bc96-dae487a3dd5b)
+![Edita G](https://github.com/JSeena/student-crud/assets/94326150/a1a8c3a1-c39d-41fa-ad63-9a019f5282af)
+![Cadstro G](https://github.com/JSeena/student-crud/assets/94326150/8cc0da2c-90cf-4447-9557-bea367847425)
+
+- Mobile
+![Sobre P](https://github.com/JSeena/student-crud/assets/94326150/c624190f-1712-4513-b644-bd9a94ff6bb4)
+![Pesquisa P](https://github.com/JSeena/student-crud/assets/94326150/299dc52a-b9b4-4956-ac88-8b893efd22c3)
+![Edita P](https://github.com/JSeena/student-crud/assets/94326150/066eb266-95d7-460a-b257-d2c067b44f68)
+![Cadastro P](https://github.com/JSeena/student-crud/assets/94326150/39b4c071-a094-4eb6-8c02-a2a3b27f3526)
